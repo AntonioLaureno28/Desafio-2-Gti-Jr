@@ -1,0 +1,12 @@
+{
+  "name": "desafio-2-gti-jr",
+  "version": "1.0.0",
+  "description": "Desafio 01 de HTML/CSS do PS da GTi 2023.2. Cliente 02 - Empresa de cursos online.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
